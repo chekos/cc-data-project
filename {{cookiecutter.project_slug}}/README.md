@@ -1,8 +1,6 @@
 {{cookiecutter.project_slug}}
 ==============================
 
-* project code: {{ cookiecutter.project_code }}
-
 {{cookiecutter.project_short_description}}
 
 Project Organization
