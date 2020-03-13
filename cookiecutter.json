@@ -1,8 +1,7 @@
 {
     "full_name": "Sergio Sanchez",
-    "email": "sanchez@ppic.org",
+    "email": "ssanchez@alluma.org",
     "project_name": "Name of project",
-    "project_code": "You can find this on Backroads",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
     "project_short_description": "A short description of your project",
     "date": "{% now 'local' %}",

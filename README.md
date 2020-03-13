@@ -1,4 +1,4 @@
-PPIC Project template
+Data Project template
 ====================
 
 This is a cookiecutter project template based on [Cookiecutter Reproducible Science](https://github.com/mkrapp/cookiecutter-reproducible-science) which is in turn based on [Cookiecutter Data Science](https://github.com/drivendata/cookiecutter-data-science)'s philosophy: *A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.*
