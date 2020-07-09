@@ -11,7 +11,7 @@ Usage
 -----
 To start a new science project:
 
-`cookiecutter gh:chekos/cookiecutter-ppic-project`
+`cookiecutter gh:chekos/cc-data-project`
 
 Project Structure
 -----------------
